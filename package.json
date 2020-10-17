@@ -1,42 +1,42 @@
 {
-  "name": "objection-datatables",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "objection",
-    "objection.js",
-    "datatables",
-    "datatables"
-  ],
-  "author": {
-    "name": "Abed Murrar",
-    "email": "abedmurrar15@gmail.com",
-    "url": "https://amurrar.me"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/abedmurrar/objection-datatables.git"
-  },
-  "engines": {
-    "node": ">=6"
-  },
-  "devDependencies": {
-    "eslint": "^7.10.0",
-    "eslint-config-prettier": "^6.12.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-array-func": "^3.1.7",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-security": "^1.4.0",
-    "eslint-plugin-standard": "^4.0.1",
-    "objection": "^2.2.3",
-    "prettier": "^2.1.2"
-  }
+    "name": "objection-datatables",
+    "version": "1.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "objection",
+        "objection.js",
+        "datatables",
+        "datatables"
+    ],
+    "author": {
+        "name": "Abed Murrar",
+        "email": "abedmurrar15@gmail.com",
+        "url": "https://amurrar.me"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abedmurrar/objection-datatables.git"
+    },
+    "engines": {
+        "node": ">=6"
+    },
+    "devDependencies": {
+        "eslint": "^7.10.0",
+        "eslint-config-prettier": "^6.12.0",
+        "eslint-config-standard": "^14.1.1",
+        "eslint-plugin-array-func": "^3.1.7",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "eslint-plugin-promise": "^4.2.1",
+        "eslint-plugin-security": "^1.4.0",
+        "eslint-plugin-standard": "^4.0.1",
+        "objection": "^2.2.3",
+        "prettier": "^2.1.2"
+    }
 }
